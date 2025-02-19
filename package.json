@@ -20,7 +20,7 @@
   "homepage": "https://github.com/devrai21/Sanscript#readme",
   "devDependencies": {
     "c8": "^9.1.0",
-    "mocha": "^10.2.0"
+    "mocha": "^10.8.2"
   },
   "dependencies": {
     "ohm-js": "^17.1.0"
